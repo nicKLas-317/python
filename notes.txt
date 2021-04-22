@@ -6,3 +6,5 @@
 1 fichier = 1 module
 Saut de ligne \n
 Tab \t
+
+NO CONSTANTES IN PYTHON
