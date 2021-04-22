@@ -10,7 +10,22 @@ def print_hi(name):
 
 
 # Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+# if __name__ == '__main__':
+#     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+
+# a = "Toto"
+b = "Lulu"
+
+# print(f"{a} aime {b}")
+# print('toto', 'lulu', sep=':', end=';')
+
+# prenom = input("Prénom ?")
+# age = int(input("Âge ?"))
+
+# a = 2 + 3j
+# c = type(a)
+# print((123).bit_length())
+print((123.0).is_integer())

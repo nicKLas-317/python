@@ -1,2 +1,8 @@
 <!--------------------   PYTHON MODULE by Gilles VDS ------------------------------>
 
+
+-> repo git : https://github.com/nicKLas-317/python
+
+1 fichier = 1 module
+Saut de ligne \n
+Tab \t
