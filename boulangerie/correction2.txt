@@ -1,0 +1,31 @@
+Bernard est un boulanger
+Violaine est une vendeuse
+Virginie est une vendeuse
+baguette est un produit (0.10 / 0.78)
+croissant est un produit (0.15 / 1.10)
+pain de mie est un produit (0.35 / 2.50)
+Bernard embauche Violaine
+Bernard embauche Virginie
+Bernard fabrique 80 baguette
+Bernard fabrique 60 croissant
+Bernard fabrique 20 pain de mie
+Violaine vend 75 baguette
+Violaine vend 50 croissant
+Virginie vend 20 pain de mie
+BILAN
+  Fabrications de Bernard
+    80 baguette x 0.10 = 8.00
+    60 croissant x 0.15 = 9.00
+    20 pain de mie x 0.35 = 7.00
+    Total = 24.00
+  Ventes de Violaine
+    75 baguette x 0.78 = 58.50
+    50 croissant x 1.10 = 55.00
+    Total = 113.50
+  Ventes de Virginie
+    20 pain de mie x 2.50 = 50.00
+    Total = 50.00
+  Totaux
+    Fabrications = 24.00
+    Ventes = 163.50
+    Résultat = +139.50
