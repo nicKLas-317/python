@@ -8,3 +8,16 @@ Saut de ligne \n
 Tab \t
 
 NO CONSTANTES IN PYTHON
+
+
+//DJANGO
+->créer .env pr en virtuel + vérif version pyp dedans (diapos Gilles)
+->lancer env virtuel avec .env\acme-env\Scripts\Activate
+->run server : py manage.py runserver
+->créer projet/app
+
+Migrations :
+py manage.py makemigrations
+py manage.py migrate
+
+ORM-REquêtes : cf diapo Gilles
